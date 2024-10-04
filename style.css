@@ -1,0 +1,322 @@
+body{
+    background-color: hsl(56, 98%, 47%);
+}
+  
+ 
+
+
+.card{
+    height: 1600px;
+    width:80%;
+    background-color: rgb(253, 253, 130);  
+    position:relative;
+    left:50px;
+
+}
+
+#title{
+    text-align: center;
+    font-style: oblique;
+}
+#description{
+    text-align: center;  
+    font-style: oblique;
+}
+ 
+
+
+.b1{
+   
+    font-weight: 200px;
+    font-size: 19px;
+    position: relative;
+    top:100px;
+    left:35px;
+
+}
+
+ 
+
+   
+
+ 
+ 
+
+
+.b2{
+    font-size: 19px;
+    position: relative;
+    top:130px;
+    left:35px
+}
+
+.b3{
+    font-size: 19px;
+    position: relative;
+    top:160px;
+    width: 200px;
+    left:35px
+ 
+}
+
+#address{
+    width: 260px;
+    height: 30px;
+    border-radius: 5px;
+    border-style: hidden;
+}
+
+.b4{
+    font-size: 19px;
+    
+    position: relative;
+    top:190px;
+    left:35px
+}
+.b5{  display:flex;
+   
+    font-size: 19px;
+    width:18px;
+    height: 5px;
+    position: relative;
+    top:220px;
+    left:35px
+}
+ 
+
+
+.b6 {
+   
+border-style: hidden;
+   
+ font-size: 19px; 
+   
+position: relative;
+   
+top:260px;
+   
+left:35px;
+   
+width: 10;
+}
+  #female{position: relative;
+   
+    width: 18px;
+     left:10px;
+    top:10px;
+}
+.ma{
+    position: relative;
+    
+     left:5px;
+    top:0px   
+}
+
+.fe{
+    position: relative;
+    
+     left:5px;
+    top:0px   
+}
+
+#male{
+    position: relative;
+    width: 18px;
+     left:29px;
+    top:10px  
+}  
+.b7 {
+   
+    
+    font-size: 19px;
+    position: relative;
+    top:280px;
+    left:35px;
+ 
+}
+.b8 {
+   height: 170px;
+   width: 450px;
+    
+    font-size: 19px;
+    position: relative;
+    top:280px;
+    left:35px;
+ 
+}
+
+.pi{
+    position: relative;
+    
+    left :11px;
+   top:10px 
+}
+ 
+
+.sa{
+    position: relative;
+    
+    right :48px;
+   top:40px 
+}
+
+.san{
+    position: relative;
+    
+    right :110px;
+   top:70px  
+}
+.st{
+    position: relative;
+    
+    right :200px;
+   top:100px  
+
+}
+
+.fi{
+    position: relative;
+    
+    right :260px;
+   top:130px   
+}
+#pizza{
+    position: relative;
+    width: 15px;
+    left :43px;
+    top:10px 
+}
+#salad{ position: relative;
+    width: 15px;
+    left :43px;
+   top:10px 
+}
+#sandwich{
+    position: relative;
+    width: 15px;
+     left:11px;
+    top:10px
+}
+
+#steak{
+    position: relative;
+    width: 15px;
+    left :43px;
+    top:10px
+}
+
+#fish{
+    position: relative;
+    width: 15px;
+    left :58px;
+    top:10px
+}
+
+ /* #pizza{
+    position: relative;
+    width: 15px;
+     right :00px;
+    top:19px 
+}
+#salad{
+    position: relative;
+    width: 15px;
+     left:0px;
+    top:19px 
+}
+#sandwich{
+    position: relative;
+    width: 15px;
+     left:0px;
+    top:10px
+}
+#steak{
+    position: relative;
+    height: 2px;
+    width: 15px;
+     left:0px;
+    top:30px
+}
+#fish{
+    position: relative;
+    width: 15px;
+     left:0px;
+    top:10px
+} */
+.b9{
+    font-size: 19px;
+    
+    position: relative;
+    top:310px;
+    left:35px  
+}
+.b10{
+    font-size: 19px;
+    
+    position: relative;
+    top:330px;
+    left:35px  
+}
+.b11{
+    font-size: 19px;
+     color: blue;
+   
+    position: relative;
+    top:400px;
+    left:35px  
+}
+#submit {
+    background-color: rgb(19, 90, 242);
+    border-style:outset;
+    border-radius: 5px;
+    width: 100px;
+    height: 40px;
+    box-shadow: 0 5px 15px rgba(54, 65, 192, 0.4);
+}
+
+
+
+
+
+input{
+    height: 30px;
+    width: 255px;
+    border-radius: 5px;
+    border-style: hidden;
+     
+    
+}  
+ 
+/* /* table{
+    position: relative;
+    top:460px;
+    left:25px  ; 
+ 
+} */
+
+.table{
+   
+    position: relative;
+    top:460px;
+    left:155px  ; 
+    height: 30px;
+    width: 600px;
+    text-align: center;  
+    
+    
+}
+
+  
+
+th{background-color: rgb(50, 50, 83);
+    color: aliceblue;
+    font-style: oblique;
+     
+
+}
+td{
+    background-color: rgb(226, 226, 244);
+     color:black ;
+     text-align: center;
+     height: 50px;
+}
